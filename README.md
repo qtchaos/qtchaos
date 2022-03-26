@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on **tools for personal use**
 - 🌱 I’m currently learning **Java, Kotlin & MongoDB**
 - 💬 Ask me about **Java and Git**
+- 📚 Check out <a href="https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md">The Programming Bible</a>
 - 📫 Email me at: qtchaos.me@gmail.com
-- 📚 Check out <a href="https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md">97 Things Every Programmer Should Know</a>
 
 -------
 
