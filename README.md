@@ -5,7 +5,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 🔭 I’m currently working on **tools for personal use**
-- 🌱 I’m currently learning **Java and MongoDB**
+- 🌱 I’m currently learning **Java, Kotlin and MongoDB**
 - 💬 Ask me about **Java and Git**
 - 📫 Email me at: qtchaos.me@gmail.com
 
