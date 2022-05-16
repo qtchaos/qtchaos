@@ -25,4 +25,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-<!-- Get your own badges here: https://github.com/Ileriayo/markdown-badges
+[![wakatime](https://wakatime.com/badge/user/388335e0-bfff-4e5c-a120-484927d9382a.svg)](https://wakatime.com/@388335e0-bfff-4e5c-a120-484927d9382a)
+<!-- Get your own badges here: https://github.com/Ileriayo/markdown-badges -->
+
