@@ -2,7 +2,7 @@
 <!-- <p align="center">
   <a href="https://qtchaos.github.io/portfolio/">Portfolio</a>
 </p> -->
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" />
 
 - 🔭 I’m currently working on **tools for personal use**
 - 🌱 I’m currently learning **Pyppeteer**
