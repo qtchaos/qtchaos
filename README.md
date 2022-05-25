@@ -5,8 +5,8 @@
 <img align="right" src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp" />
 
 - 🔭 I’m currently working on **tools for personal use**
-- 🌱 I’m currently learning **Pyppeteer**
-- 💬 Ask me about **Java and Git**
+- 🌱 I’m currently learning **PyTorch**
+- 🤖 Check out my [Megatron](https://github.com/qtchaos/Megatron) project.
 - 📚 Check out <a href="https://github.com/97-things/97-things-every-programmer-should-know/blob/master/en/SUMMARY.md">The Programming Bible</a>
 - 📫 Email me at: qtchaos.me@gmail.com
 
@@ -28,3 +28,5 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/388335e0-bfff-4e5c-a120-484927d9382a.svg)](https://wakatime.com/@388335e0-bfff-4e5c-a120-484927d9382a) -->
 <!-- Get your own badges here: https://github.com/Ileriayo/markdown-badges -->
 
+<!-- Temporarily removed stuff -->
+<!-- - 💬 Ask me about **Java and Git** -->
