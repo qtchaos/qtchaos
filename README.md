@@ -9,7 +9,4 @@
 <a href="https://github.com/qtchaos/py_mega_account_generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=qtchaos&show_icons=true&theme=gotham&bg_color=00000000&hide_border=true&repo=py_mega_account_generator" />
 </a>
-<a href="https://github.com/qtchaos/reminders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=qtchaos&show_icons=true&theme=gotham&bg_color=00000000&hide_border=true&repo=reminders" />
-</a>
 </p>
